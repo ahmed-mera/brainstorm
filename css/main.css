@@ -1,0 +1,7 @@
+.navbar{ padding-top: 0; padding-bottom: 0}
+.nav-item:not(:last-of-type) {margin-right: 10px}
+.nav-item > .nav-link.line-height {line-height: 3}
+.nav-item  .fa-search {line-height: 2}
+.nav-item:hover {cursor: pointer;}
+.nav-link img , .navbar-brand img {max-width:40px}
+.card-footer {background: none}
